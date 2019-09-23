@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contacts on Thomas Biegert</title>
+    <link>https://thomasbiegert.github.io/contact/</link>
+    <description>Recent content in Contacts on Thomas Biegert</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://thomasbiegert.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>https://thomasbiegert.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasbiegert.github.io/contact/</guid>
+      <description>Thomas Biegert
+London School of Econonomics and Political Science
+Department of Social Policy
+Houghton Street OLD 2.53
+London WC2A 2AE
++44 (0)20 7955 7476
+t.biegert@lse.ac.uk</description>
+    </item>
+    
+  </channel>
+</rss>
