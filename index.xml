@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thomas Biegert</title>
     <link>https://thomasbiegert.github.io/</link>
     <description>Recent content on Thomas Biegert</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://thomasbiegert.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://thomasbiegert.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://thomasbiegert.github.io/about/</link>
@@ -29,9 +25,7 @@ My main research interests are in the fields of comparative social policy and so
       <description>Thomas Biegert
 London School of Econonomics and Political Science
 Department of Social Policy
-Houghton Street OLD 2.54
-London WC2A 2AE
-+44 (0)20 7955 7476
+Houghton Street OLD 2.54 London WC2A 2AE
 t.biegert@lse.ac.uk</description>
     </item>
     
@@ -50,7 +44,7 @@ t.biegert@lse.ac.uk</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://thomasbiegert.github.io/publications/</guid>
-      <description>articles in peer-reviewed journals Biegert, Thomas &amp;amp; Ebbinghaus, Bernhard (forthcoming): Accumulation or absorption? Changing disparities of household non-employment in Europe during the Great Recession. Socio-Econcomic Review. Advance articles. [Link] [Replication files &amp;amp; ungated pre-review version]
+      <description>articles in peer-reviewed journals Biegert, Thomas &amp;amp; Ebbinghaus, Bernhard (2022): Accumulation or absorption? Changing disparities of household non-employment in Europe during the Great Recession. Socio-Econcomic Review 20(1): 141-168, [Link] [Replication files &amp;amp; ungated pre-review version]
 Biegert, Thomas (2019): Labor Market Institutions, the Insider/Outsider Divide and Social Inequalities in Employment in Affluent Countries. Socio-Economic Review 17(2): 255-281. [Link]
 Meyer, Brett &amp;amp; Thomas Biegert (2019): The Conditional Effect of Technological Change on Collective Bargaining Coverage.</description>
     </item>
